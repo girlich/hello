@@ -1,2 +1,2 @@
 # hello
-Simple hallo world
+Simple hello world program
